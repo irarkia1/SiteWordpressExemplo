@@ -1,0 +1,16 @@
+C:\Users\irark\Documents\Estudo\c#\aula vs01\bin\Debug\aula vs01.exe.config
+C:\Users\irark\Documents\Estudo\c#\aula vs01\bin\Debug\aula vs01.exe
+C:\Users\irark\Documents\Estudo\c#\aula vs01\bin\Debug\aula vs01.pdb
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula vs01.csproj.AssemblyReference.cache
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form1.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Properties.Resources.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula vs01.csproj.GenerateResource.cache
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula vs01.csproj.CoreCompileInputs.cache
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula vs01.exe
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula vs01.pdb
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form2.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form4.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form3.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form5.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form6.resources
+C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form7.resources
