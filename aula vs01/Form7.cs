@@ -12,6 +12,8 @@ namespace aula_vs01
 {
     public partial class Form7: Form
     {
+        int x, y;
+
         public Form7()
         {
             InitializeComponent();
@@ -65,6 +67,45 @@ namespace aula_vs01
         private void Btn_Ver_Senha_Click(object sender, EventArgs e)
         {
             MTB_Pass.PasswordChar = '\0';
+        }
+
+        private void LB1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form7_Load(object sender, EventArgs e)
+        {
+            LB1.Text = Properties.Resources.nome;
+            LB2.Text = Properties.Resources.youtube;
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
+            x = pictureBox1.Location.X; // Obtém a posição X atual
+            y = pictureBox1.Location.Y;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            y += 5;
+            pictureBox1.Location = new Point(x, y);
+            y = pictureBox1.Location.Y;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
         }
     }
 }

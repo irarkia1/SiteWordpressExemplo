@@ -13,6 +13,7 @@ namespace aula_vs01
     public partial class Form2: Form
     {
         private Form1 form1;
+        int time = 0;
         public Form2(Form1 form1Principal, List<string> DataList)
         {
             InitializeComponent();
@@ -46,6 +47,27 @@ namespace aula_vs01
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {
             form1.ListBox_List.Items.Add("Seila");
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label2.Text = time.ToString();
+            time++;
         }
     }
 }

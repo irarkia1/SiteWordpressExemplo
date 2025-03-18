@@ -15,6 +15,7 @@ namespace aula_vs01
         public Form6()
         {
             InitializeComponent();
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -63,6 +64,46 @@ namespace aula_vs01
         }
 
         private void CMS_Notificacao_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void NumUpDown_ValueChanged(object sender, EventArgs e)
+        {
+            progressBar1.Value = (int)NumUpDown.Value;
+        }
+
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            while (button1 != null)
+            {
+
+                if (NumUpDown.Value == progressBar1.Value)
+                {
+                    int v = (int)NumUpDown.Value;
+                    progressBar1.Value = v;
+                }
+            }
+        }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+                
+            
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
         {
 
         }

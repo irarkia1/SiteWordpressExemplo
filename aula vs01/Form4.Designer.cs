@@ -35,6 +35,9 @@
             this.Btn_Ckbox = new System.Windows.Forms.Button();
             this.Btn_Form3_InForm4 = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+            this.splitContainer1.SuspendLayout();
             this.SuspendLayout();
             // 
             // Ckbox_Carro
@@ -106,11 +109,20 @@
             this.listBox1.Size = new System.Drawing.Size(120, 95);
             this.listBox1.TabIndex = 6;
             // 
+            // splitContainer1
+            // 
+            this.splitContainer1.Location = new System.Drawing.Point(347, 13);
+            this.splitContainer1.Name = "splitContainer1";
+            this.splitContainer1.Size = new System.Drawing.Size(365, 372);
+            this.splitContainer1.SplitterDistance = 121;
+            this.splitContainer1.TabIndex = 7;
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(300, 357);
+            this.ClientSize = new System.Drawing.Size(787, 397);
+            this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.Btn_Form3_InForm4);
             this.Controls.Add(this.Btn_Ckbox);
@@ -120,6 +132,8 @@
             this.Controls.Add(this.Ckbox_Carro);
             this.Name = "Form4";
             this.Text = "Form4";
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+            this.splitContainer1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -134,5 +148,6 @@
         private System.Windows.Forms.Button Btn_Ckbox;
         private System.Windows.Forms.Button Btn_Form3_InForm4;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.SplitContainer splitContainer1;
     }
 }

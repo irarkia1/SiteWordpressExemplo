@@ -28,17 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.ListViewItem listViewItem1 = new System.Windows.Forms.ListViewItem(new string[] {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.ListViewItem listViewItem19 = new System.Windows.Forms.ListViewItem(new string[] {
             "0",
             "mouse",
             "20",
             "79.90"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem20 = new System.Windows.Forms.ListViewItem(new string[] {
             "1",
             "teclado",
             "30",
             "29.90"}, -1);
-            System.Windows.Forms.ListViewItem listViewItem3 = new System.Windows.Forms.ListViewItem(new string[] {
+            System.Windows.Forms.ListViewItem listViewItem21 = new System.Windows.Forms.ListViewItem(new string[] {
             "3",
             "Gabinete",
             "10",
@@ -66,6 +67,15 @@
             this.label6 = new System.Windows.Forms.Label();
             this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.Btn_Ver_Senha = new System.Windows.Forms.Button();
+            this.LB1 = new System.Windows.Forms.Label();
+            this.LB2 = new System.Windows.Forms.Label();
+            this.Pb1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.Pb1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // Lv_Form
@@ -78,9 +88,9 @@
             this.Lv_Form.FullRowSelect = true;
             this.Lv_Form.HideSelection = false;
             this.Lv_Form.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
-            listViewItem1,
-            listViewItem2,
-            listViewItem3});
+            listViewItem19,
+            listViewItem20,
+            listViewItem21});
             this.Lv_Form.Location = new System.Drawing.Point(12, 12);
             this.Lv_Form.MultiSelect = false;
             this.Lv_Form.Name = "Lv_Form";
@@ -265,11 +275,81 @@
             this.Btn_Ver_Senha.UseVisualStyleBackColor = true;
             this.Btn_Ver_Senha.Click += new System.EventHandler(this.Btn_Ver_Senha_Click);
             // 
+            // LB1
+            // 
+            this.LB1.AutoSize = true;
+            this.LB1.Location = new System.Drawing.Point(414, 162);
+            this.LB1.Name = "LB1";
+            this.LB1.Size = new System.Drawing.Size(35, 13);
+            this.LB1.TabIndex = 20;
+            this.LB1.Text = "label7";
+            this.LB1.Click += new System.EventHandler(this.LB1_Click);
+            // 
+            // LB2
+            // 
+            this.LB2.AutoSize = true;
+            this.LB2.Location = new System.Drawing.Point(610, 162);
+            this.LB2.Name = "LB2";
+            this.LB2.Size = new System.Drawing.Size(35, 13);
+            this.LB2.TabIndex = 21;
+            this.LB2.Text = "label8";
+            // 
+            // Pb1
+            // 
+            this.Pb1.Image = global::aula_vs01.Properties.Resources.icone;
+            this.Pb1.Location = new System.Drawing.Point(415, 220);
+            this.Pb1.Name = "Pb1";
+            this.Pb1.Size = new System.Drawing.Size(100, 50);
+            this.Pb1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.Pb1.TabIndex = 22;
+            this.Pb1.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::aula_vs01.Properties.Resources.carro;
+            this.pictureBox1.Location = new System.Drawing.Point(703, 349);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 23;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(511, 336);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 24;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(417, 336);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 25;
+            this.button2.Text = "button2";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.Pb1);
+            this.Controls.Add(this.LB2);
+            this.Controls.Add(this.LB1);
             this.Controls.Add(this.Btn_Ver_Senha);
             this.Controls.Add(this.maskedTextBox1);
             this.Controls.Add(this.label6);
@@ -291,6 +371,9 @@
             this.Controls.Add(this.Lv_Form);
             this.Name = "Form7";
             this.Text = "Form7";
+            this.Load += new System.EventHandler(this.Form7_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.Pb1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -321,5 +404,12 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.MaskedTextBox maskedTextBox1;
         private System.Windows.Forms.Button Btn_Ver_Senha;
+        private System.Windows.Forms.Label LB1;
+        private System.Windows.Forms.Label LB2;
+        private System.Windows.Forms.PictureBox Pb1;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Timer timer1;
     }
 }

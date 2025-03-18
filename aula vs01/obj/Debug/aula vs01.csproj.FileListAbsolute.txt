@@ -14,3 +14,29 @@ C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form3.resources
 C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form5.resources
 C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form6.resources
 C:\Users\irark\Documents\Estudo\c#\aula vs01\obj\Debug\aula_vs01.Form7.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\aula vs01.exe.config
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\aula vs01.exe
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\aula vs01.pdb
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.csproj.AssemblyReference.cache
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form1.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form2.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form3.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form4.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form5.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form6.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form7.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Properties.Resources.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.csproj.GenerateResource.cache
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.csproj.CoreCompileInputs.cache
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.exe
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.pdb
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula_vs01.Form8.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\EntityFramework.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\System.Data.SQLite.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\EntityFramework.xml
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\bin\Debug\System.Data.SQLite.xml
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\aula vs01\obj\Debug\aula vs01.csproj.Up2Date

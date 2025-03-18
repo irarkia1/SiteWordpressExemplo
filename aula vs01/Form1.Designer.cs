@@ -43,10 +43,12 @@
             this.form04ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.form05ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.form06ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.form07ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.Ll_Youtube = new System.Windows.Forms.LinkLabel();
             this.Ll_Calculadora = new System.Windows.Forms.LinkLabel();
             this.HGYoDh = new System.Windows.Forms.LinkLabel();
-            this.form07ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.MenuStrip_Form1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -135,7 +137,9 @@
             this.form04ToolStripMenuItem,
             this.form05ToolStripMenuItem,
             this.form06ToolStripMenuItem,
-            this.form07ToolStripMenuItem});
+            this.form07ToolStripMenuItem,
+            this.toolStripMenuItem1,
+            this.sQLToolStripMenuItem});
             this.componentesToolStripMenuItem.Name = "componentesToolStripMenuItem";
             this.componentesToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.componentesToolStripMenuItem.Text = "Componentes";
@@ -177,6 +181,20 @@
             this.form06ToolStripMenuItem.Text = "Form06";
             this.form06ToolStripMenuItem.Click += new System.EventHandler(this.form06ToolStripMenuItem_Click);
             // 
+            // form07ToolStripMenuItem
+            // 
+            this.form07ToolStripMenuItem.Name = "form07ToolStripMenuItem";
+            this.form07ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.form07ToolStripMenuItem.Text = "Form07";
+            this.form07ToolStripMenuItem.Click += new System.EventHandler(this.form07ToolStripMenuItem_Click);
+            // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.toolStripMenuItem1.Text = "Form08";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            // 
             // Ll_Youtube
             // 
             this.Ll_Youtube.AutoSize = true;
@@ -210,12 +228,12 @@
             this.HGYoDh.Text = "Hagelab  _  Youtube _  Dheanny";
             this.HGYoDh.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.HGYoDh_LinkClicked);
             // 
-            // form07ToolStripMenuItem
+            // sQLToolStripMenuItem
             // 
-            this.form07ToolStripMenuItem.Name = "form07ToolStripMenuItem";
-            this.form07ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.form07ToolStripMenuItem.Text = "Form07";
-            this.form07ToolStripMenuItem.Click += new System.EventHandler(this.form07ToolStripMenuItem_Click);
+            this.sQLToolStripMenuItem.Name = "sQLToolStripMenuItem";
+            this.sQLToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.sQLToolStripMenuItem.Text = "SQL";
+            this.sQLToolStripMenuItem.Click += new System.EventHandler(this.sQLToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -264,6 +282,8 @@
         private System.Windows.Forms.LinkLabel Ll_Calculadora;
         private System.Windows.Forms.LinkLabel HGYoDh;
         private System.Windows.Forms.ToolStripMenuItem form07ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem sQLToolStripMenuItem;
     }
 }
 
