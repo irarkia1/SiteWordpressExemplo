@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.NUB_Nivel = new System.Windows.Forms.NumericUpDown();
             this.Lb_Nivel = new System.Windows.Forms.Label();
             this.Lb_status = new System.Windows.Forms.Label();
@@ -45,6 +45,7 @@
             this.Btn_Salvar = new System.Windows.Forms.Button();
             this.Btn_Novo = new System.Windows.Forms.Button();
             this.Btn_Excluir = new System.Windows.Forms.Button();
+            this.Btn_SalvarRelatorio = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.NUB_Nivel)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -155,23 +156,24 @@
             // 
             // dataGridView1
             // 
-            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.EnableHeadersVisualStyles = false;
-            this.dataGridView1.Location = new System.Drawing.Point(290, 37);
+            this.dataGridView1.Location = new System.Drawing.Point(290, 11);
             this.dataGridView1.MultiSelect = false;
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(270, 272);
             this.dataGridView1.TabIndex = 23;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.SelectionChanged += new System.EventHandler(this.dataGridView1_SelectionChanged);
             // 
             // Btn_Salvar
@@ -204,11 +206,22 @@
             this.Btn_Excluir.UseVisualStyleBackColor = true;
             this.Btn_Excluir.Click += new System.EventHandler(this.Btn_Excluir_Click);
             // 
+            // Btn_SalvarRelatorio
+            // 
+            this.Btn_SalvarRelatorio.Location = new System.Drawing.Point(375, 298);
+            this.Btn_SalvarRelatorio.Name = "Btn_SalvarRelatorio";
+            this.Btn_SalvarRelatorio.Size = new System.Drawing.Size(75, 23);
+            this.Btn_SalvarRelatorio.TabIndex = 28;
+            this.Btn_SalvarRelatorio.Text = "Salvar";
+            this.Btn_SalvarRelatorio.UseVisualStyleBackColor = true;
+            this.Btn_SalvarRelatorio.Click += new System.EventHandler(this.Btn_SalvarRelatorio_Click);
+            // 
             // Gestao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(591, 351);
+            this.Controls.Add(this.Btn_SalvarRelatorio);
             this.Controls.Add(this.Btn_Excluir);
             this.Controls.Add(this.Btn_Salvar);
             this.Controls.Add(this.Btn_Novo);
@@ -253,5 +266,6 @@
         private System.Windows.Forms.Button Btn_Salvar;
         private System.Windows.Forms.Button Btn_Novo;
         private System.Windows.Forms.Button Btn_Excluir;
+        private System.Windows.Forms.Button Btn_SalvarRelatorio;
     }
 }

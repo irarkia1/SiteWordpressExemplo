@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:Db_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:globais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Db_Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gestao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|c:\\users\\irark\\documents\\github\\c#\\sitewordpressexemplo\\sqlite\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{57CB141F-714D-49C6-803C-7EABF974D00D}|SQLITE.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,33 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:08:32.575Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-24T00:19:27.843Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\login.cs",
-              "RelativeDocumentMoniker": "login.cs",
-              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\login.cs [Design]",
-              "RelativeToolTip": "login.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "globais.cs",
+              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\globais.cs",
+              "RelativeDocumentMoniker": "globais.cs",
+              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\globais.cs",
+              "RelativeToolTip": "globais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T12:11:02.101Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-24T07:56:02.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,47 +70,32 @@
               "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Gestao.cs [Design]",
               "RelativeToolTip": "Gestao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T00:16:53.08Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-03-24T00:27:09.021Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cadastro.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Cadastro.cs",
-              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Cadastro.cs [Design]",
-              "RelativeToolTip": "Cadastro.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAhwMkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T22:34:57.424Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-24T00:19:54.875Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "globais.cs",
-              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\globais.cs",
-              "RelativeDocumentMoniker": "globais.cs",
-              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\globais.cs*",
-              "RelativeToolTip": "globais.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Title": "Db_Class.cs",
+              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs",
+              "RelativeDocumentMoniker": "Db_Class.cs",
+              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs",
+              "RelativeToolTip": "Db_Class.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:53:02.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Usuario.cs",
-              "RelativeDocumentMoniker": "Usuario.cs",
-              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Usuario.cs",
-              "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:17:53.28Z",
+              "WhenOpened": "2025-03-24T00:18:43.596Z",
               "EditorCaption": ""
             },
             {
@@ -130,22 +106,9 @@
               "RelativeDocumentMoniker": "Gestao.cs",
               "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Gestao.cs",
               "RelativeToolTip": "Gestao.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAALwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:53:45.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Db_Class.cs",
-              "DocumentMoniker": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs",
-              "RelativeDocumentMoniker": "Db_Class.cs",
-              "ToolTip": "C:\\Users\\irark\\Documents\\GitHub\\c#\\SiteWordpressExemplo\\SQLITE\\Db_Class.cs*",
-              "RelativeToolTip": "Db_Class.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T11:26:04.618Z",
+              "WhenOpened": "2025-03-23T22:42:59.6Z",
               "EditorCaption": ""
             }
           ]

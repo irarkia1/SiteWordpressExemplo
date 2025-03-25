@@ -193,5 +193,14 @@ namespace SQLITE
             Gestao gestao = new Gestao();
             gestao.ShowDialog();
         }
+
+        private void alunosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+            dataGridView1.DataSource = Db_Class.verUsuario();
+            dataGridView1.Columns[0].Width = 50;
+            dataGridView1.Columns[1].Width = 200;
+
+        }
     }
 }

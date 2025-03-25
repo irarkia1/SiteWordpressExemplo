@@ -20,3 +20,7 @@ C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\obj\Debug\SQLITE.
 C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\obj\Debug\SQLITE.pdb
 C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\obj\Debug\SQLITE.Cadastro.resources
 C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\obj\Debug\SQLITE.Gestao.resources
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\bin\Debug\itextsharp.dll
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\irark\Documents\GitHub\c#\SiteWordpressExemplo\SQLITE\bin\Debug\itextsharp.xml

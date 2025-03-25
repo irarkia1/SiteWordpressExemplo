@@ -12,7 +12,8 @@ namespace SQLITE
         public static string nameUser = "";
         public static bool logados = false;
         public static int nivel = 0;  // 0 = basic, 1 = user, 2 = admin
-        public static string path = System.Environment.CurrentDirectory;
+        //public static string path = System.Environment.CurrentDirectory;
+        public static string path = System.AppDomain.CurrentDomain.BaseDirectory.ToString();
         public static string db = "bd_estudo.db";
         public static string dbPath = path +@"\banco\";
 

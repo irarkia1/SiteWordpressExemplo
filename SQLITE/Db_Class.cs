@@ -25,7 +25,7 @@ namespace SQLITE
             return conection;
         }
 
-        private static DataTable ObtAllUser()
+        public static DataTable ObtAllUser()
         {
             SQLiteDataAdapter adapitar = null;
             DataTable dt = new DataTable();
@@ -33,7 +33,7 @@ namespace SQLITE
             try{
 
                 var vcom = DbConnection();
-                var comando = DbConnection().CreateCommand();
+                var comando = vcom.CreateCommand();
                 comando.CommandText = "SELECT * FROM db_user";
                 adapitar = new SQLiteDataAdapter(comando.CommandText, vcom);
                 adapitar.Fill(dt);
